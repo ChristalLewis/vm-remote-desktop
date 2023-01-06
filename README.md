@@ -2,7 +2,7 @@
 <img src="" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1></h1>
 This tutorial outlines how to create a virtual machines in Azure and use the remote desktop connection to gain access.<br />
 
 
