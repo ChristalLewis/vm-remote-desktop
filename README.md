@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creating Virtual Machines and Using Remote Desktop Connection</h1>
-This tutorial outlines how to create a virtual machines in Azure and use the remote desktop connection to gain access.<br />
+This tutorial outlines how to create virtual machines in Azure and use the remote desktop connection to gain access.<br />
 
 
 <h2>Environments and Technologies Used</h2>
