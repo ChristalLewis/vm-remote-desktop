@@ -17,7 +17,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
+- Create a free Microsoft Azure account. Find the steps [here] https://learn.microsoft.com/en-us/training/modules/create-an-azure-account/
 - Item 2
 - Item 3
 - Item 4
