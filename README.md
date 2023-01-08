@@ -26,7 +26,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://imgur.com/jpW1DYT" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://imgur.com/jpW1DYT](https://imgur.com/a/687rGOu)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
