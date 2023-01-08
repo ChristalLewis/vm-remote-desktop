@@ -26,7 +26,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <h2>Installation Steps</h2>
 
 <p>1
-<img src="https://imgur.com/lP7ML9j" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lP7ML9j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
@@ -42,14 +42,14 @@ Lorem ipsum dolor sit amet
 <br />
 
 <p>3
-<img src="https://imgur.com/mzwwHUJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mzwwHUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
 </p>
 <br />
 <p>4
-<img src="https://imgur.com/dAoI7Lh" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dAoI7Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet,
 <br />
 
 <p>5
-<img src="https://imgur.com/jjubX1Z" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jjubX1Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet
@@ -72,7 +72,7 @@ Lorem ipsum dolor sit amet,
 </p>
 <br />
 <p>7
-<img src="https://imgur.com/aBebBlR" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/aBebBlR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
@@ -80,7 +80,7 @@ Lorem ipsum dolor sit amet,
 <br />
 
 <p>8
-<img src="https://imgur.com/p9Owzsv" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/p9Owzsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet
@@ -88,14 +88,14 @@ Lorem ipsum dolor sit amet
 <br />
 
 <p>9
-<img src="https://imgur.com/ctaNZRW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ctaNZRW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
 </p>
 <br />
 <p>10
-<img src="https://imgur.com/cE0cY4u" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cE0cY4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet,
 <br />
 
 <p>11
-<img src="https://imgur.com/iKTodJR" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iKTodJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet
 <br />
 
 <p>12
-<img src="https://imgur.com/E6cdZBX" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/E6cdZBX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
@@ -134,7 +134,7 @@ Lorem ipsum dolor sit amet
 <br />
 
 <p>15
-<img src="https://imgur.com/mzwwHUJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mzwwHUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
