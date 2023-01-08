@@ -179,34 +179,82 @@ Lorem ipsum dolor sit amet
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/mzwwHUJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>21
+<img src="https://imgur.com/Pnp3Lam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
 </p>
 <br />
-<p>
-<img src="https://i.imgur.com/D0BtYWC.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>22
+<img src="https://imgur.com/8V6ZeN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
 </p>
 <br />
 
+<p>22a
+<img src="https://imgur.com/RFKVLEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
-<img src="https://i.imgur.com/pUGr1Zj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+<p>22b
+<img src="https://imgur.com/D0BtYWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+<p>22c
+<img src="https://imgur.com/i4lqtPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet
 </p>
 <br />
 
+<p>23
+<img src="https://imgur.com/ABUpWwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <p>
-<img src="https://imgur.com/mzwwHUJ" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+<p>24
+<img src="https://imgur.com/Y0vUp6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, 
 </p>
 <br />
+
+<p>25
+<img src="https://imgur.com/Xk20i7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+<p>26
+<img src="https://imgur.com/kwj7gnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, 
+</p>
+<br />
+
+<p>27
+<img src="https://imgur.com/CooRlaC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet
+</p>
+<br />
+
+
 
