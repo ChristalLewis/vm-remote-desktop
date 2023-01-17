@@ -33,11 +33,11 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 </p>
 <br />
 
-<p>2
+<p>
 <img src="https://i.imgur.com/pUGr1Zj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-2. From the menu in the top left hand corner, choose create in order to set up a new resource group.
+2. From the menu in the top left hand corner, choose "+ create" (by left clicking) in order to set up a new resource group.
 </p>
 <br />
 
@@ -45,60 +45,60 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/mzwwHUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+3. On this screen, we are going to fill out the form. (a) Choose the azure subscription you want to use. (b) Name the resource group (I recommend using a name that makes sense for the project). (c) Choose the region you are located in. (d) Click "Next:Tags>".
 </p>
 <br />
-<p>4
+<p>
 <img src="https://imgur.com/dAoI7Lh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+4. (a) In the name area, put your name. (b) In value, put your role/job. (c) Click "Next:Review+create>".
 </p>
 <br />
 
-<p>5
+<p>
 <img src="https://imgur.com/jjubX1Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+5. When you see the words Validation passed with the green circle and white check inside in front, click "Create" (at the bottom left of the screen).
 </p>
 <br />
 
-<p>6
+<p>
 <img src="http://i.imgur.com/UGf4YQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+6. This process may take some time to create the resource group. When your screen looks like this (except with your chosen resource group name), your resource group is created and ready to use.
 </p>
 <br />
-<p>7
+<p>
 <img src="https://imgur.com/aBebBlR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+7. Now we are going to create our virtual machine. Go to the search bar and type "Virtual Machine". Then select the gray highlighted words "Virtual machines" with a left click of your mouse/touchpad. 
 </p>
 <br />
 
-<p>8
+<p>
 <img src="https://imgur.com/p9Owzsv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+8. From the menu in the top left hand corner, choose "+ create" (by left clicking) in order to set up a new virtual machine. Choose "Azure virtual machine" from the drop down menu.
 </p>
 <br />
 
-<p>9
+<p>
 <img src="https://imgur.com/ctaNZRW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+9. Now we have to fill out the specific information for the virtual machine we are creating. (a) Choose the same subscription and resource group name you choose when creating the resource group. (b) Choose a virtual machine name (this name must be original and I recommend you pick a name relevant to your project). (c) Choose your region again (it should be the same as the region you chose when creating the resource group). (d) Leave the Availability options and Availability zone chosen for you. (e) Scroll down and continue to fill out the form.
 </p>
 <br />
-<p>10
+<p>
 <img src="https://imgur.com/cE0cY4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+10. Fill out this screen so it matches the picture exactly (As you learn more and have other needs, you will change some of these options). 
 </p>
 <br />
 
