@@ -68,7 +68,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="http://i.imgur.com/UGf4YQE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-6. This process may take some time to create the resource group. When your screen looks like this (except with your chosen resource group name), your resource group is created and ready to use.
+6. This process may take some time to create the resource group. When your screen looks like the picture above (except with your chosen resource group name), your resource group is created and ready to use.
 </p>
 <br />
 <p>
@@ -181,80 +181,80 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 </p>
 <br />
 
-<p>21
+<p>
 <img src="https://imgur.com/Pnp3Lam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+21. In the user and password sections, put the username and password you created in step 11. Check the "remember me" box ONLY if you are using your personal computer. Then click "OK".
 </p>
 <br />
-<p>22
+<p>
 <img src="https://imgur.com/8V6ZeN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+22. Click "OK". 
 </p>
 <br />
 
-<p>22a
+<p>
 <img src="https://imgur.com/RFKVLEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+23. Choose no for all of the privacy settings (your screen should look like the picture above. Click "Accept".
 </p>
 <br />
-<p>22b
+<p>
 <img src="https://imgur.com/D0BtYWC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+24. You have successfully secured a remote desktop connection to your virtual machine if your screen looks like the picture above (except the IP address at the top of the screen could be different).
 </p>
 <br />
 
-<p>22c
+<p>
 <img src="https://imgur.com/i4lqtPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+25. Sometimes, it can get confusing which screen is the virtual machine or your actual screen. The virtual machine will have the blue bar at the top of the screen (as shown in the picture above). To go to your computer desktop, click the minimize icon ( _ ). Click "_".
 </p>
 <br />
 
-<p>23
+<p>
 <img src="https://imgur.com/ABUpWwm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+26. Now we are going to create another virtual machine (with a linux OS). (a) Follow steps 7-9 (excpet the virtual machine name has to be different than the first one) to create another virtual machine. (b) Fill out the form just like the picture in step 10 (except in the image field, pick a linux Operating System). (c) In the authentication type field, select the "Password" bubble (like in the picture above). (d) For the username and password, you can use the same info as the first virtual machine (make sure to save this info). (e) Click the "Review+create" button in the bottm left hand of the screen.
 </p>
 <br />
 
-<p>24
+<p>
 <img src="https://imgur.com/Y0vUp6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+27. Lorem ipsum dolor sit amet, 
 </p>
 <br />
 
-<p>25
+<p>
 <img src="https://imgur.com/Xk20i7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+28. Lorem ipsum dolor sit amet, 
 </p>
 <br />
-<p>26
+<p>
 <img src="https://imgur.com/kwj7gnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+29. Lorem ipsum dolor sit amet, 
 </p>
 <br />
 
-<p>27
+<p>
 <img src="https://imgur.com/CooRlaC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+30. Lorem ipsum dolor sit amet
 </p>
 <br />
 
