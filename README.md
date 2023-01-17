@@ -29,7 +29,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/lP7ML9j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Once you are logged in to your Azure account, go to the search barand type "Resource Group". 
+1. Once you are logged into your Azure account, go to the search bar and type "Resource Group". Then select the gray highlighted words "Resource group" with a left click of your mouse/touchpad.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Once you are logged in to your Azure account, go to the search barand type "Reso
 <img src="https://i.imgur.com/pUGr1Zj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+2. From the menu in the top left hand corner, choose create in order to set up a new resource group.
 </p>
 <br />
 
