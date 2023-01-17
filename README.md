@@ -25,11 +25,11 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 
 <h2>Installation Steps</h2>
 
-<p>1
+<p>
 <img src="https://imgur.com/lP7ML9j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+Once you are logged in to your Azure account, go to the search barand type "Resource Group". 
 </p>
 <br />
 
