@@ -9,19 +9,19 @@ This tutorial outlines how to create virtual machines (computer and server) in A
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop 
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Linux (Ubuntu)
+- Windows Server 2022 Datacenter
 
 <h2>List of Prerequisites</h2>
 
+- For absolute beginners with zero knowledge, I suggest Youtube/Google terms like "virtual machines" and "remote desktop connection"
 - Create a free Microsoft Azure account. Find the steps [here](https://learn.microsoft.com/en-us/training/modules/create-an-azure-account/)
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Login to your free account.
 
 <h2>Installation Steps</h2>
 
