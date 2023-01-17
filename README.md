@@ -41,7 +41,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 </p>
 <br />
 
-<p>3
+<p>
 <img src="https://imgur.com/mzwwHUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -98,84 +98,86 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/cE0cY4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-10. Fill out this screen so it matches the picture exactly (As you learn more and have other needs, you will change some of these options). 
+10. Fill out this screen so it matches the picture exactly (As you learn more and have other needs, you will change some of these options). Scroll down and continue to fill out the form.
 </p>
 <br />
 
-<p>11
+<p>
 <img src="https://imgur.com/iKTodJR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+11. (a) Choose your username. (b) Choose Your password and confirm it (follow the guidelines for the passwords). (c) Leave the Public and Select inbound port fields the same as you see in the picture. (d) Scroll down and continue to fill out the form. 
+*REMINDER: KEEP TRACK OF THE USERNAME AND PASSWORD, YOU WILL NEED IT LATER*
 </p>
 <br />
 
-<p>12
+<p>
 <img src="https://imgur.com/E6cdZBX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+12. (a) Check the box under the Licensing area. (b) Click "Next:Disks>". 
 </p>
 <br />
-<p>13
+<p>
 <img src="https://imgur.com/miBCeUU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+13. (a) In the top menu, choose the "Networking" tab (you know you're in the right menu when the words "Networking" has a gray background). (b) Take note of the Network Interface settings. (c) Click the "Review+create" button in the bottom left corner.
 </p>
 <br />
 
-<p>14
+<p>
 <img src="https://imgur.com/2mNeKJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+14. When you see the words Validation passed with the green circle and white check inside in front, click "Create" (at the bottom left of the screen). 
 </p>
 <br />
 
-<p>15
+<p>
 <img src="https://imgur.com/X9txysm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+15. This process may take some time to create the virtual machine. When your screen says "Your deployment is complete" and looks like the picture above, your virtual machine is created and ready to use. 
 </p>
 <br />
-<p>16
+<p>
 <img src="https://imgur.com/HnPnJkD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+16. Now we are going to check the networking. Go to the search bar and type "network watcher". Then select the gray highlighted words "Network Watcher" with a left click of your mouse/touchpad. 
 </p>
 <br />
 
-<p>17
+<p>
 <img src="https://imgur.com/u9qXobr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+17. On the left hand menu (under "Monitoring"), click "Topology".
 </p>
 <br />
 
-<p>18
+<p>
 <img src="https://imgur.com/p8w5mtn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+18. Choose the subscription, resource group, and virtual network you created. If your screen looks like the picture above, you have successfully set up your virtual machine within the resource group you created.
 </p>
 <br />
-<p>19
+<p>
 <img src="https://imgur.com/qRGCFbf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, 
+19. Now we are going to connect remotely to the virtual machine we created. In the search bar at the bottom of your screen, type "Remote Desktop Connection". Then select "Open".
+*FOR THOSE WITH APPLE DEVICES, DOWNLOAD THE REMOTE DESKTOP APP AND OPEN IT*
 </p>
 <br />
 
-<p>20
+<p>
 <img src="https://imgur.com/6cvLb5L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet
+20. (a) Select the virtual machine (in the Azure website). (b) Copy the Public IP address. (c) Paste the IP address in the field labeled "Computer". (d) Click "Connect".
 </p>
 <br />
 
