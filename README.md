@@ -231,7 +231,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/Y0vUp6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-27. Lorem ipsum dolor sit amet, 
+27. Follow the steps 16 through 18 to check the networking of the two virtual machines (computers) you created. Your screen should look like the picture above. 
 </p>
 <br />
 
@@ -239,14 +239,14 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/Xk20i7E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-28. Lorem ipsum dolor sit amet, 
+28. If you want to create a virtual server instead of a virtual computer, follow step 26 to create a virtual machine (except in the image field, choose "Windows Server" from the dropdown menu). Keep in mind, virtual servers and virtual computers are both virtual machines.
 </p>
 <br />
 <p>
 <img src="https://imgur.com/kwj7gnL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-29. Lorem ipsum dolor sit amet, 
+29. When creating the virtual server, check both boxes under the "Licensing" section (like in the picture above). Then click the "Review+create" button in the bottom left of the screen.
 </p>
 <br />
 
@@ -254,7 +254,7 @@ This tutorial outlines how to create virtual machines in Azure and use the remot
 <img src="https://imgur.com/CooRlaC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-30. Lorem ipsum dolor sit amet
+30. To check the networking, follow steps 16 through 18. The picture above shows the two virtual computers and the virtual server created within the resource group.
 </p>
 <br />
 
